@@ -1,0 +1,11 @@
+
+.container{
+    width: 1728px;
+    height: 2358px;
+    font-family: 'Inter', sans-serif;;
+}
+#first{
+    border:2px solid black;
+    padding:1rem;
+    
+}
